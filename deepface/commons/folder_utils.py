@@ -32,4 +32,4 @@ def get_deepface_home() -> str:
     Returns:
         str: the home directory.
     """
-    return "/kaggle/working/"
+    return "/kaggle/working"
